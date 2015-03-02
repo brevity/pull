@@ -14,5 +14,11 @@
             "email": "andrew.toelle@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "suggest": {
+        "you-go/fuck-yourself": "*"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"Brevity\\Pull\\": "src/"}
+    }
 }
