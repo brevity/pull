@@ -15,7 +15,7 @@
         }
     ],
     "suggest": {
-        "you-go/fuck-yourself": "*"
+        "go/fuck-yourself": "*"
     },
     "minimum-stability": "dev",
     "autoload": {
