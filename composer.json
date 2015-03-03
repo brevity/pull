@@ -1,5 +1,5 @@
 {
-    "name": "brevity/pull",
+    "name": "brevity/tug",
     "description": "A Helper for writing pull streams.",
     "require": {
         "react/event-loop": "0.5.*@dev"
@@ -19,6 +19,6 @@
     },
     "minimum-stability": "dev",
     "autoload": {
-        "psr-4": {"Brevity\\Pull\\": "src/"}
+        "psr-4": {"Brevity\\Tug\\": "src/"}
     }
 }

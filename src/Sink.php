@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Easy Sink for PullStreams in php.
+ * Easy Sink for TugStreams in php.
  *
  * PHP version 5.5
  *
- * @package    Pull
+ * @package    Tug
  * @subpackage Sink
  * @author     Andrew Toelle <andrew.toelle@wholefoods.com>
  * @category   Streams
@@ -13,11 +13,11 @@
  * @link       https://github.com/brevity/pull
  */
 
-namespace Brevity\Pull;
+namespace Brevity\Tug;
 
 /**
  * Sink: a pullStream Sink helper
- * @package  Pull
+ * @package  Tug
  * @category WriteStream
  */
 class Sink
